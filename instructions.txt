@@ -1,0 +1,19 @@
+1 # vim instructions
+2
+3 adding changes
+4
+5- git status
+6- git add file name
+7- git status
+8            check if you add
+9- git cammet -m "message"
+10 git push origin main
+11
+12
+13 for adding small email
+14 git config --global user.name (name)
+15 git congfig --global user.email (email)
+16
+17 to check changes
+18 git config --list
+19 find user.name and user.email
